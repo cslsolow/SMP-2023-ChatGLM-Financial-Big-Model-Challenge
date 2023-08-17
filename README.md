@@ -8,4 +8,4 @@ chatglm2-6b model: https://modelscope.cn/models/ZhipuAI/chatglm2-6b/summary?spm=
 
 main.ipynb is used to extract features from txt and SMP.ipynb is used to build a local knowledge base of financial texts and Q&A with ChatGLM. There are some bugs with the code, so please just use it as a reference.
 
-![Uploading image.png…]()
+![Alt text](concept.png)
